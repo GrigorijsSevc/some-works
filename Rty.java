@@ -199,7 +199,7 @@ public class Rty {
 
     public static void about() {
         // TODO insert information about author
-        System.out.println("241RDB052 Grigorijs Sevcenko");
+        System.out.println(" Grigorijs Sevcenko");
     }
 
 }
