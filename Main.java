@@ -1,4 +1,4 @@
-// 241RDB052 Grigorijs Sevcenko 3
+
 
 import java.util.Scanner;
 import java.util.HashMap;
@@ -101,7 +101,7 @@ public class Main {
     }
     private static void about()
     {
-        System.out.println("241RDB052 Grigorijs Sevcenko 3");
+        System.out.println(" Grigorijs Sevcenko");
     }
     public static void main(String[] args)  {
         Scanner sc = new Scanner(System.in);
